@@ -15,3 +15,5 @@ Open http://localhost:9001 in your browser, and voilà.
 Learn more about using Jekyll by reading its documentation.
 
 如果是本地下载的是bootstrap-v3.1.1 需要修改_config.xml 才能在本地正确的跑起来， 需要把pygments: true 这一行 改成 highlighter: rouge
+
+2. 基于bootstrap3 给老家创业的朋友花俩小时写一个打印单程序， 参考着玩吧， 没做性能优化， 莫吐槽： http://sqyh.github.io/
